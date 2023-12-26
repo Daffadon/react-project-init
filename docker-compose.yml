@@ -1,0 +1,21 @@
+
+# Production docker-compose with public registry
+version: '3'
+services:
+  fe:
+    image: <username>/<image>
+    container_name: react_app_container
+    ports:
+      - '3000:80'
+      
+#  Development docker-compose 
+# version: '3'
+# services:
+#   fe:
+#     # image:
+#     build:
+#       context: .
+#       dockerfile: Dockerfile
+#     container_name: fe_container
+#     ports:
+#       - '3000:80'
