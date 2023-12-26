@@ -23,13 +23,13 @@ For styling TailwindCSS v3.4.0 has been installed in the project
 
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)](https://tailwindcss.com/)
 
-### Axios
+## Axios
 
 Axios used for interaction to the Back End Server. The project has been initialize with axios-client.ts so you can just use that because the axios-client has been configured to handle an error for authentication
 
 [![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge)](https://axios-http.com/)
 
-### Docker
+## Docker
 
 The template use example of docker for production in the server but you can change it later if you want cause you may have different strategy for your application
 
